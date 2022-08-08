@@ -1,5 +1,5 @@
 //Jason Kildare
-//Sept 20, 2015
+
 
 
 //This program calculates the number of daily calories needed to maintain the users current weight
